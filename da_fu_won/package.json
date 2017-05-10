@@ -1,0 +1,23 @@
+{
+    "name": "da_fu_won",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "cordova-plugin-speechrecognition": "^1.1.2",
+        "cordova-android": "5.2.1",
+        "cordova-ios": "4.2.0",
+        "cordova-windows": "4.4.2",
+        "cordova-plugin-whitelist": "1.2.2"
+    },
+    "cordova": {
+        "plugins": {
+            "cordova-plugin-speechrecognition": {},
+            "cordova-plugin-whitelist": {}
+        },
+        "platforms": [
+            "android",
+            "ios",
+            "windows"
+        ]
+    }
+}
