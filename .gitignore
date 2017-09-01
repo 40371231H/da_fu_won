@@ -1,0 +1,6 @@
+.DS_Store
+Thumbs.db
+.vs
+.vscode
+*.log
+./da_fu_won/node_modules/
